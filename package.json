@@ -1,0 +1,11 @@
+{
+    "name": "personal-homepage",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx serve ."
+    },
+    "author": "Swar Kewalia",
+    "license": "MIT"
+  }
